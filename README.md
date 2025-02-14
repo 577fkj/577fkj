@@ -13,21 +13,6 @@
 </p>
 
 <!--
-Github WidgetBox
--->
-<p align="center">
- <h2 align="center">
- </h2>
- <p align="center">
-  Github WidgetBox
- </p>
-</p>
-
-<p align="center">
- <img src="https://github-widgetbox.vercel.app/api/profile?username=577fkj&data=followers,repositories,stars,commits&theme=muted" align="center" alt="Stats" />
-</p>
-
-<!--
 Github Stats
 -->
 <p align="center">

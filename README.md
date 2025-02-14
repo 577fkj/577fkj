@@ -8,7 +8,7 @@
      577fkj
    </a>
  </h2>
- <p align="center"> 🌈LGBT+丨⭐写代码是兴趣
+ <p align="center"> 🌈LGBT+丨🐱是furry (无兽设) | ⭐写代码是兴趣
  </p>
 </p>
 
